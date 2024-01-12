@@ -1,0 +1,30 @@
+.input{
+    /* min-width: 200px; */
+    font-size: 20px;
+    /* min-height: 30px; */
+    /* border: 1px solid #cccc; */
+}
+.addbtn{
+    width: 60px;
+    height: 40px;
+}
+/* todo Input css */
+
+.add-Btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* .Table-div { */
+  /* background-color: #f4f4f4; */
+
+/* } */
+.table-Head{
+  text-align: center;
+  font-size: 17px;
+}
+.Table-List{
+  background-color: #cccc;
+  font-size: 18px;
+  text-align: center;
+}
